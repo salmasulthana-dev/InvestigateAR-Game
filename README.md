@@ -16,7 +16,7 @@ AR-based Detective Game using Unity, Firebase, and Python (Planned ML Integratio
 | Language               | C#                                      |
 | Database               | Firebase Realtime DB                    |
 | AR Support             | AR Foundation, ARCore                   |
-| Dev Tools              | VS Code        |
+| Dev Tools              | VS Code                                 |                
 | ML (Planned)           | Python + YOLOv8 (object detection)      |
 
 ---
