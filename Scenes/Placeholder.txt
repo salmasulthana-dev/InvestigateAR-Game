@@ -1,1 +1,2 @@
-Placeholder for future content.
+Unity scene files (.unity) for the Investigate AR project will be placed here.
+Main scene setup will be added once Unity development is resumed.
