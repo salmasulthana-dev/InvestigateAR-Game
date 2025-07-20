@@ -1,1 +1,2 @@
-Placeholder for future content.
+Contains project documentation, planning notes, design drafts, and diagrams.
+Can also include academic submission documents and enhancement plans.
