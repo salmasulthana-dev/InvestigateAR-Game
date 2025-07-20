@@ -1,1 +1,2 @@
-Placeholder for future content.
+This folder will contain 3D models, textures, sounds, and prefabs used in the AR game.
+To be populated as development progresses.
